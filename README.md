@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# TextUtils-React-App
+
+TextUtils is a word counter and character counting utility which can be used to manipulate your text in the way you want.
+You can remove extra spaces, copy the manipulated text as well as convert your text from Uppercase to Lowercase and Lowercase to Uppercase.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
